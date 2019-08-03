@@ -1,2 +1,2 @@
 # Gitチュートリアル
-- feature-A
+- feature-A_re
